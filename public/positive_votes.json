@@ -249,6 +249,756 @@
  		"proportion": "50.0",
 		"likes": 132,
 		"dislikes": 132
+	},
+	{
+		"id": "9976",
+		"win_type": "Radiant",
+		"first_blood_time": 108,
+		"region_id": 132,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 153,
+		"dislikes": 153
+	},
+	{
+		"id": "9975",
+		"win_type": "Dire",
+		"first_blood_time": 2,
+		"region_id": 121,
+		"region": "US EAST",
+ 		"proportion": "50.0",
+		"likes": 191,
+		"dislikes": 191
+	},
+	{
+		"id": "9974",
+		"win_type": "Dire",
+		"first_blood_time": 76,
+		"region_id": 121,
+		"region": "US EAST",
+ 		"proportion": "50.0",
+		"likes": 192,
+		"dislikes": 192
+	},
+	{
+		"id": "9973",
+		"win_type": "Radiant",
+		"first_blood_time": 4,
+		"region_id": 155,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 138,
+		"dislikes": 138
+	},
+	{
+		"id": "9972",
+		"win_type": "Radiant",
+		"first_blood_time": 73,
+		"region_id": 156,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 155,
+		"dislikes": 155
+	},
+	{
+		"id": "9971",
+		"win_type": "Dire",
+		"first_blood_time": 194,
+		"region_id": 111,
+		"region": "US WEST",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9970",
+		"win_type": "Radiant",
+		"first_blood_time": 23,
+		"region_id": 171,
+		"region": "AUSTRALIA",
+ 		"proportion": "50.0",
+		"likes": 188,
+		"dislikes": 188
+	},
+	{
+		"id": "997",
+		"win_type": "Radiant",
+		"first_blood_time": 10,
+		"region_id": 204,
+		"region": "BRAZIL",
+ 		"proportion": "50.0",
+		"likes": 155,
+		"dislikes": 155
+	},
+	{
+		"id": "9969",
+		"win_type": "Dire",
+		"first_blood_time": 0,
+		"region_id": 138,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 191,
+		"dislikes": 191
+	},
+	{
+		"id": "9968",
+		"win_type": "Dire",
+		"first_blood_time": 4,
+		"region_id": 138,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 155,
+		"dislikes": 155
+	},
+	{
+		"id": "9967",
+		"win_type": "Dire",
+		"first_blood_time": 141,
+		"region_id": 133,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9966",
+		"win_type": "Dire",
+		"first_blood_time": 60,
+		"region_id": 156,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9965",
+		"win_type": "Dire",
+		"first_blood_time": 164,
+		"region_id": 138,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9964",
+		"win_type": "Radiant",
+		"first_blood_time": 89,
+		"region_id": 133,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9963",
+		"win_type": "Radiant",
+		"first_blood_time": 61,
+		"region_id": 133,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9962",
+		"win_type": "Radiant",
+		"first_blood_time": 82,
+		"region_id": 132,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 138,
+		"dislikes": 138
+	},
+	{
+		"id": "9961",
+		"win_type": "Radiant",
+		"first_blood_time": 20,
+		"region_id": 156,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9960",
+		"win_type": "Radiant",
+		"first_blood_time": 108,
+		"region_id": 121,
+		"region": "US EAST",
+ 		"proportion": "50.0",
+		"likes": 191,
+		"dislikes": 191
+	},
+	{
+		"id": "996",
+		"win_type": "Radiant",
+		"first_blood_time": 13,
+		"region_id": 154,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 121,
+		"dislikes": 121
+	},
+	{
+		"id": "9959",
+		"win_type": "Dire",
+		"first_blood_time": 10,
+		"region_id": 132,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 121,
+		"dislikes": 121
+	},
+	{
+		"id": "9958",
+		"win_type": "Dire",
+		"first_blood_time": 106,
+		"region_id": 223,
+		"region": "PW TELECOM ZHEJIANG",
+ 		"proportion": "50.0",
+		"likes": 112,
+		"dislikes": 112
+	},
+	{
+		"id": "9957",
+		"win_type": "Dire",
+		"first_blood_time": 120,
+		"region_id": 138,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 121,
+		"dislikes": 121
+	},
+	{
+		"id": "9956",
+		"win_type": "Dire",
+		"first_blood_time": 3,
+		"region_id": 132,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 123,
+		"dislikes": 123
+	},
+	{
+		"id": "9955",
+		"win_type": "Radiant",
+		"first_blood_time": 8,
+		"region_id": 156,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 123,
+		"dislikes": 123
+	},
+	{
+		"id": "9954",
+		"win_type": "Radiant",
+		"first_blood_time": 142,
+		"region_id": 155,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9953",
+		"win_type": "Dire",
+		"first_blood_time": 73,
+		"region_id": 132,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 122,
+		"dislikes": 122
+	},
+	{
+		"id": "9952",
+		"win_type": "Radiant",
+		"first_blood_time": 151,
+		"region_id": 132,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9951",
+		"win_type": "Radiant",
+		"first_blood_time": 8,
+		"region_id": 122,
+		"region": "US EAST",
+ 		"proportion": "50.0",
+		"likes": 121,
+		"dislikes": 121
+	},
+	{
+		"id": "9950",
+		"win_type": "Radiant",
+		"first_blood_time": 110,
+		"region_id": 153,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "995",
+		"win_type": "Radiant",
+		"first_blood_time": 86,
+		"region_id": 171,
+		"region": "AUSTRALIA",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9949",
+		"win_type": "Dire",
+		"first_blood_time": 9,
+		"region_id": 151,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9948",
+		"win_type": "Dire",
+		"first_blood_time": 58,
+		"region_id": 191,
+		"region": "AUSTRIA",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9947",
+		"win_type": "Dire",
+		"first_blood_time": 1,
+		"region_id": 191,
+		"region": "AUSTRIA",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9946",
+		"win_type": "Dire",
+		"first_blood_time": 222,
+		"region_id": 188,
+		"region": "STOCKHOLM",
+ 		"proportion": "50.0",
+		"likes": 156,
+		"dislikes": 156
+	},
+	{
+		"id": "9945",
+		"win_type": "Dire",
+		"first_blood_time": 6,
+		"region_id": 133,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 151,
+		"dislikes": 151
+	},
+	{
+		"id": "9944",
+		"win_type": "Radiant",
+		"first_blood_time": 343,
+		"region_id": 138,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 156,
+		"dislikes": 156
+	},
+	{
+		"id": "9943",
+		"win_type": "Radiant",
+		"first_blood_time": 6,
+		"region_id": 153,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9942",
+		"win_type": "Radiant",
+		"first_blood_time": 91,
+		"region_id": 133,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 138,
+		"dislikes": 138
+	},
+	{
+		"id": "9941",
+		"win_type": "Dire",
+		"first_blood_time": 112,
+		"region_id": 122,
+		"region": "US EAST",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9940",
+		"win_type": "Radiant",
+		"first_blood_time": 8,
+		"region_id": 155,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 121,
+		"dislikes": 121
+	},
+	{
+		"id": "994",
+		"win_type": "Radiant",
+		"first_blood_time": 0,
+		"region_id": 138,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9939",
+		"win_type": "Dire",
+		"first_blood_time": 135,
+		"region_id": 132,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 122,
+		"dislikes": 122
+	},
+	{
+		"id": "9938",
+		"win_type": "Dire",
+		"first_blood_time": 141,
+		"region_id": 151,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 138,
+		"dislikes": 138
+	},
+	{
+		"id": "9937",
+		"win_type": "Radiant",
+		"first_blood_time": 17,
+		"region_id": 138,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9936",
+		"win_type": "Radiant",
+		"first_blood_time": 52,
+		"region_id": 151,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9935",
+		"win_type": "Dire",
+		"first_blood_time": 34,
+		"region_id": 133,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 138,
+		"dislikes": 138
+	},
+	{
+		"id": "9934",
+		"win_type": "Radiant",
+		"first_blood_time": 110,
+		"region_id": 191,
+		"region": "AUSTRIA",
+ 		"proportion": "50.0",
+		"likes": 138,
+		"dislikes": 138
+	},
+	{
+		"id": "9933",
+		"win_type": "Radiant",
+		"first_blood_time": 11,
+		"region_id": 154,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9932",
+		"win_type": "Dire",
+		"first_blood_time": 87,
+		"region_id": 133,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9931",
+		"win_type": "Radiant",
+		"first_blood_time": 22,
+		"region_id": 133,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 204,
+		"dislikes": 204
+	},
+	{
+		"id": "9930",
+		"win_type": "Dire",
+		"first_blood_time": 8,
+		"region_id": 132,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "993",
+		"win_type": "Dire",
+		"first_blood_time": 7,
+		"region_id": 154,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9929",
+		"win_type": "Radiant",
+		"first_blood_time": 380,
+		"region_id": 204,
+		"region": "BRAZIL",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9928",
+		"win_type": "Dire",
+		"first_blood_time": 98,
+		"region_id": 187,
+		"region": "STOCKHOLM",
+ 		"proportion": "50.0",
+		"likes": 121,
+		"dislikes": 121
+	},
+	{
+		"id": "9927",
+		"win_type": "Dire",
+		"first_blood_time": 252,
+		"region_id": 132,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9926",
+		"win_type": "Radiant",
+		"first_blood_time": 91,
+		"region_id": 121,
+		"region": "US EAST",
+ 		"proportion": "50.0",
+		"likes": 122,
+		"dislikes": 122
+	},
+	{
+		"id": "9925",
+		"win_type": "Dire",
+		"first_blood_time": 20,
+		"region_id": 133,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9924",
+		"win_type": "Dire",
+		"first_blood_time": 58,
+		"region_id": 156,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9923",
+		"win_type": "Radiant",
+		"first_blood_time": 104,
+		"region_id": 171,
+		"region": "AUSTRALIA",
+ 		"proportion": "50.0",
+		"likes": 123,
+		"dislikes": 123
+	},
+	{
+		"id": "9922",
+		"win_type": "Radiant",
+		"first_blood_time": 17,
+		"region_id": 204,
+		"region": "BRAZIL",
+ 		"proportion": "50.0",
+		"likes": 138,
+		"dislikes": 138
+	},
+	{
+		"id": "9921",
+		"win_type": "Dire",
+		"first_blood_time": 16,
+		"region_id": 121,
+		"region": "US EAST",
+ 		"proportion": "50.0",
+		"likes": 112,
+		"dislikes": 112
+	},
+	{
+		"id": "9920",
+		"win_type": "Radiant",
+		"first_blood_time": 53,
+		"region_id": 133,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 123,
+		"dislikes": 123
+	},
+	{
+		"id": "992",
+		"win_type": "Radiant",
+		"first_blood_time": 101,
+		"region_id": 132,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 123,
+		"dislikes": 123
+	},
+	{
+		"id": "9919",
+		"win_type": "Radiant",
+		"first_blood_time": 0,
+		"region_id": 152,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 123,
+		"dislikes": 123
+	},
+	{
+		"id": "9918",
+		"win_type": "Dire",
+		"first_blood_time": 253,
+		"region_id": 138,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9917",
+		"win_type": "Dire",
+		"first_blood_time": 4,
+		"region_id": 151,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 121,
+		"dislikes": 121
+	},
+	{
+		"id": "9916",
+		"win_type": "Radiant",
+		"first_blood_time": 187,
+		"region_id": 181,
+		"region": "STOCKHOLM",
+ 		"proportion": "50.0",
+		"likes": 123,
+		"dislikes": 123
+	},
+	{
+		"id": "9915",
+		"win_type": "Dire",
+		"first_blood_time": 20,
+		"region_id": 133,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9914",
+		"win_type": "Radiant",
+		"first_blood_time": 3,
+		"region_id": 132,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 154,
+		"dislikes": 154
+	},
+	{
+		"id": "9913",
+		"win_type": "Radiant",
+		"first_blood_time": 0,
+		"region_id": 191,
+		"region": "AUSTRIA",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "9912",
+		"win_type": "Radiant",
+		"first_blood_time": 92,
+		"region_id": 192,
+		"region": "AUSTRIA",
+ 		"proportion": "50.0",
+		"likes": 133,
+		"dislikes": 133
+	},
+	{
+		"id": "9911",
+		"win_type": "Dire",
+		"first_blood_time": 40,
+		"region_id": 154,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 156,
+		"dislikes": 156
+	},
+	{
+		"id": "9910",
+		"win_type": "Dire",
+		"first_blood_time": 46,
+		"region_id": 132,
+		"region": "EUROPE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
+	},
+	{
+		"id": "991",
+		"win_type": "Radiant",
+		"first_blood_time": 250,
+		"region_id": 171,
+		"region": "AUSTRALIA",
+ 		"proportion": "50.0",
+		"likes": 138,
+		"dislikes": 138
+	},
+	{
+		"id": "9909",
+		"win_type": "Radiant",
+		"first_blood_time": 156,
+		"region_id": 151,
+		"region": "SINGAPORE",
+ 		"proportion": "50.0",
+		"likes": 132,
+		"dislikes": 132
 	}
 	]
 }

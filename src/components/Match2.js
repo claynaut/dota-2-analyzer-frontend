@@ -137,11 +137,15 @@ export default class Match2 extends Component {
   }
 
   render() {
+    var searchCR = Number(sessionStorage.getItem('searchCR'));
+    searchCR = searchCR ? searchCR : 25;
+
     const { posts, updateFormOpen, deleteFormOpen } = this.state;
+    
     return (
       <div>
         { posts.matches ? 
-          posts.matches.map(post =>
+          posts.matches.slice(0,searchCR).map(post =>
             <div className={styles.rowButtonWrapper}>
               <div className={styles.tableRow}>
                 <div className={Matchstyles.crColumnOne}>

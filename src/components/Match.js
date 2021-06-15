@@ -196,11 +196,15 @@ export default class Match extends Component {
   }
 
   render() {
+    var searchFB = Number(sessionStorage.getItem('searchFB'));
+    searchFB = searchFB ? searchFB : 25;
+
     const { posts, analytics, updateFormOpen, deleteFormOpen, analyticsOpen } = this.state;
+    
     return (
       <div>
         { posts.matches ? 
-          posts.matches.map(post =>
+          posts.matches.slice(0,searchFB).map(post =>
             <div className={styles.rowButtonWrapper}>
               <div className={styles.tableRow}>
                 <div className={Matchstyles.fbColumnOne}>

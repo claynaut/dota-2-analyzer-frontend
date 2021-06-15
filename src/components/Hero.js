@@ -283,11 +283,15 @@ export default class Hero extends Component {
   }
 
   render() {
+    var searchHe = Number(sessionStorage.getItem('searchHe'));
+    searchHe = searchHe ? searchHe : 25;
+
     const { posts, analytics1, analytics2, analytics3, updateFormOpen, deleteFormOpen, analyticsOpen, modalAltPage, a2Start, a2End, aPage } = this.state;
+    
     return (
       <div>
         { posts.heroes ? 
-          posts.heroes.map(post =>
+          posts.heroes.slice(0,searchHe).map(post =>
             <div>
               <div className={styles.rowButtonWrapper}>
                 <div className={styles.tableRow}>

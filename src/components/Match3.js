@@ -137,11 +137,15 @@ export default class Match3 extends Component {
   }
 
   render() {
+    var searchML = Number(sessionStorage.getItem('searchML'));
+    searchML = searchML ? searchML : 25;
+
     const { posts, updateFormOpen, deleteFormOpen } = this.state;
+    
     return (
       <div>
         { posts.matches ? 
-          posts.matches.map(post =>
+          posts.matches.slice(0,searchML).map(post =>
             <div className={styles.rowButtonWrapper}>
               <div className={styles.tableRow}>
                 <div className={Matchstyles.mlColumnOne}>

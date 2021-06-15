@@ -1,14 +1,14 @@
 {
 	"abilities_upgraded": [
 	{
-		"id": "5131",
-		"name": "windrunner_powershot",
-		"numTimes_upgraded": 2282870
-	},
-	{
 		"id": "5002",
 		"name": "attribute_bonus",
-		"numTimes_upgraded": 632017
+		"numTimes_upgraded": 1832017
+	},
+	{
+		"id": "5131",
+		"name": "windrunner_powershot",
+		"numTimes_upgraded": 82870
 	},
 	{
 		"id": "5130",
@@ -124,6 +124,381 @@
 		"id": "5027",
 		"name": "juggernaut_blade_dance",
 		"numTimes_upgraded": 39259
+	},
+	{
+		"id": "5368",
+		"name": "alchemist_goblins_greed",
+		"numTimes_upgraded": 39016
+	},
+	{
+		"id": "5365",
+		"name": "alchemist_acid_spray",
+		"numTimes_upgraded": 38888
+	},
+	{
+		"id": "5028",
+		"name": "juggernaut_blade_fury",
+		"numTimes_upgraded": 38210
+	},
+	{
+		"id": "5075",
+		"name": "pudge_meat_hook",
+		"numTimes_upgraded": 37698
+	},
+	{
+		"id": "5076",
+		"name": "pudge_rot",
+		"numTimes_upgraded": 37389
+	},
+	{
+		"id": "5366",
+		"name": "alchemist_unstable_concoction",
+		"numTimes_upgraded": 37238
+	},
+	{
+		"id": "5004",
+		"name": "antimage_blink",
+		"numTimes_upgraded": 37068
+	},
+	{
+		"id": "5003",
+		"name": "antimage_mana_break",
+		"numTimes_upgraded": 36139
+	},
+	{
+		"id": "5596",
+		"name": "legion_commander_press_the_attack",
+		"numTimes_upgraded": 35460
+	},
+	{
+		"id": "5597",
+		"name": "legion_commander_moment_of_courage",
+		"numTimes_upgraded": 35370
+	},
+	{
+		"id": "5029",
+		"name": "juggernaut_healing_ward",
+		"numTimes_upgraded": 35249
+	},
+	{
+		"id": "5567",
+		"name": "tusk_frozen_sigil",
+		"numTimes_upgraded": 34777
+	},
+	{
+		"id": "5595",
+		"name": "legion_commander_overwhelming_odds",
+		"numTimes_upgraded": 34062
+	},
+	{
+		"id": "5074",
+		"name": "pudge_flesh_heap",
+		"numTimes_upgraded": 34019
+	},
+	{
+		"id": "5005",
+		"name": "antimage_spell_shield",
+		"numTimes_upgraded": 33789
+	},
+	{
+		"id": "5495",
+		"name": "slark_pounce",
+		"numTimes_upgraded": 33433
+	},
+	{
+		"id": "5494",
+		"name": "slark_dark_pact",
+		"numTimes_upgraded": 33327
+	},
+	{
+		"id": "5235",
+		"name": "dazzle_shadow_wave",
+		"numTimes_upgraded": 33271
+	},
+	{
+		"id": "5040",
+		"name": "lina_dragon_slave",
+		"numTimes_upgraded": 32902
+	},
+	{
+		"id": "5496",
+		"name": "slark_essence_shift",
+		"numTimes_upgraded": 32551
+	},
+	{
+		"id": "5450",
+		"name": "rubick_fade_bolt",
+		"numTimes_upgraded": 32493
+	},
+	{
+		"id": "5041",
+		"name": "lina_light_strike_array",
+		"numTimes_upgraded": 32268
+	},
+	{
+		"id": "5234",
+		"name": "dazzle_shallow_grave",
+		"numTimes_upgraded": 31780
+	},
+	{
+		"id": "5340",
+		"name": "doom_bringer_scorched_earth",
+		"numTimes_upgraded": 31554
+	},
+	{
+		"id": "5339",
+		"name": "doom_bringer_devour",
+		"numTimes_upgraded": 31273
+	},
+	{
+		"id": "5448",
+		"name": "rubick_telekinesis",
+		"numTimes_upgraded": 31222
+	},
+	{
+		"id": "5042",
+		"name": "lina_fiery_soul",
+		"numTimes_upgraded": 30634
+	},
+	{
+		"id": "5086",
+		"name": "skeleton_king_hellfire_blast",
+		"numTimes_upgraded": 30533
+	},
+	{
+		"id": "5088",
+		"name": "skeleton_king_mortal_strike",
+		"numTimes_upgraded": 30397
+	},
+	{
+		"id": "5128",
+		"name": "crystal_maiden_brilliance_aura",
+		"numTimes_upgraded": 30236
+	},
+	{
+		"id": "5652",
+		"name": "winter_wyvern_splinter_blast",
+		"numTimes_upgraded": 30090
+	},
+	{
+		"id": "5605",
+		"name": "ember_spirit_flame_guard",
+		"numTimes_upgraded": 30020
+	},
+	{
+		"id": "5087",
+		"name": "skeleton_king_vampiric_aura",
+		"numTimes_upgraded": 29795
+	},
+	{
+		"id": "5117",
+		"name": "slardar_amplify_damage",
+		"numTimes_upgraded": 29759
+	},
+	{
+		"id": "5603",
+		"name": "ember_spirit_searing_chains",
+		"numTimes_upgraded": 29726
+	},
+	{
+		"id": "5176",
+		"name": "queenofpain_sonic_wave",
+		"numTimes_upgraded": 29704
+	},
+	{
+		"id": "5127",
+		"name": "crystal_maiden_frostbite",
+		"numTimes_upgraded": 29505
+	},
+	{
+		"id": "5341",
+		"name": "doom_bringer_infernal_blade",
+		"numTimes_upgraded": 29492
+	},
+	{
+		"id": "5604",
+		"name": "ember_spirit_sleight_of_fist",
+		"numTimes_upgraded": 29281
+	},
+	{
+		"id": "5030",
+		"name": "juggernaut_omni_slash",
+		"numTimes_upgraded": 29262
+	},
+	{
+		"id": "5044",
+		"name": "lion_impale",
+		"numTimes_upgraded": 29182
+	},
+	{
+		"id": "5138",
+		"name": "witch_doctor_paralyzing_cask",
+		"numTimes_upgraded": 29031
+	},
+	{
+		"id": "5190",
+		"name": "phantom_assassin_stifling_dagger",
+		"numTimes_upgraded": 28901
+	},
+	{
+		"id": "5355",
+		"name": "spirit_breaker_greater_bash",
+		"numTimes_upgraded": 28881
+	},
+	{
+		"id": "5353",
+		"name": "spirit_breaker_charge_of_darkness",
+		"numTimes_upgraded": 28740
+	},
+	{
+		"id": "5026",
+		"name": "earthshaker_echo_slam",
+		"numTimes_upgraded": 28653
+	},
+	{
+		"id": "5379",
+		"name": "silencer_last_word",
+		"numTimes_upgraded": 28637
+	},
+	{
+		"id": "5651",
+		"name": "winter_wyvern_arctic_burn",
+		"numTimes_upgraded": 28562
+	},
+	{
+		"id": "5126",
+		"name": "crystal_maiden_crystal_nova",
+		"numTimes_upgraded": 28512
+	},
+	{
+		"id": "5191",
+		"name": "phantom_assassin_phantom_strike",
+		"numTimes_upgraded": 28419
+	},
+	{
+		"id": "5192",
+		"name": "phantom_assassin_blur",
+		"numTimes_upgraded": 28266
+	},
+	{
+		"id": "5048",
+		"name": "mirana_arrow",
+		"numTimes_upgraded": 28099
+	},
+	{
+		"id": "5051",
+		"name": "mirana_starfall",
+		"numTimes_upgraded": 27997
+	},
+	{
+		"id": "5369",
+		"name": "alchemist_chemical_rage",
+		"numTimes_upgraded": 27738
+	},
+	{
+		"id": "5653",
+		"name": "winter_wyvern_cold_embrace",
+		"numTimes_upgraded": 27462
+	},
+	{
+		"id": "5451",
+		"name": "rubick_null_field",
+		"numTimes_upgraded": 27324
+	},
+	{
+		"id": "5361",
+		"name": "gyrocopter_rocket_barrage",
+		"numTimes_upgraded": 27267
+	},
+	{
+		"id": "5046",
+		"name": "lion_mana_drain",
+		"numTimes_upgraded": 26982
+	},
+	{
+		"id": "5363",
+		"name": "gyrocopter_flak_cannon",
+		"numTimes_upgraded": 26967
+	},
+	{
+		"id": "5285",
+		"name": "bounty_hunter_shuriken_toss",
+		"numTimes_upgraded": 26872
+	},
+	{
+		"id": "5568",
+		"name": "tusk_walrus_punch",
+		"numTimes_upgraded": 26607
+	},
+	{
+		"id": "5006",
+		"name": "antimage_mana_void",
+		"numTimes_upgraded": 26410
+	},
+	{
+		"id": "5050",
+		"name": "mirana_leap",
+		"numTimes_upgraded": 26362
+	},
+	{
+		"id": "5354",
+		"name": "spirit_breaker_empowering_haste",
+		"numTimes_upgraded": 26336
+	},
+	{
+		"id": "5045",
+		"name": "lion_voodoo",
+		"numTimes_upgraded": 26326
+	},
+	{
+		"id": "5335",
+		"name": "spectre_desolate",
+		"numTimes_upgraded": 26222
+	},
+	{
+		"id": "5378",
+		"name": "silencer_glaives_of_wisdom",
+		"numTimes_upgraded": 26208
+	},
+	{
+		"id": "5140",
+		"name": "witch_doctor_maledict",
+		"numTimes_upgraded": 26148
+	},
+	{
+		"id": "5334",
+		"name": "spectre_spectral_dagger",
+		"numTimes_upgraded": 25991
+	},
+	{
+		"id": "5336",
+		"name": "spectre_dispersion",
+		"numTimes_upgraded": 25913
+	},
+	{
+		"id": "5233",
+		"name": "dazzle_poison_touch",
+		"numTimes_upgraded": 25579
+	},
+	{
+		"id": "5139",
+		"name": "witch_doctor_voodoo_restoration",
+		"numTimes_upgraded": 25496
+	},
+	{
+		"id": "5345",
+		"name": "ancient_apparition_cold_feet",
+		"numTimes_upgraded": 25405
+	},
+	{
+		"id": "5287",
+		"name": "bounty_hunter_wind_walk",
+		"numTimes_upgraded": 24998
+	},
+	{
+		"id": "5598",
+		"name": "legion_commander_duel",
+		"numTimes_upgraded": 24824
 	}
 	]
 }

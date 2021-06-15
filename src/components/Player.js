@@ -95,11 +95,15 @@ export default class Player extends Component {
   }
 
   render() {
+    var searchPl = Number(sessionStorage.getItem('searchPl'));
+    searchPl = searchPl ? searchPl : 25;
+
     const { posts, updateFormOpen, deleteFormOpen } = this.state;
+
     return (
       <div>
         { posts.players ? 
-          posts.players.map(post =>
+          posts.players.slice(0,searchPl).map(post =>
             <div className={styles.rowButtonWrapper}>
               <div className={styles.tableRow}>
                 <div className={Playerstyles.tableColumnOne}>

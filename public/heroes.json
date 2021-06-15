@@ -149,6 +149,456 @@
 		"name": "Lion",
 		"win_rate": "46.8",
 		"pick_rate": "0.15"
+		},
+	{
+		"id": "27",
+		"name": "Shadow Shaman",
+		"win_rate": "52.9",
+		"pick_rate": "0.07"
+		},
+	{
+		"id": "28",
+		"name": "Slardar",
+		"win_rate": "55.9",
+		"pick_rate": "0.22"
+		},
+	{
+		"id": "29",
+		"name": "Tidehunter",
+		"win_rate": "49.1",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "30",
+		"name": "Witch Doctor",
+		"win_rate": "51.3",
+		"pick_rate": "0.15"
+		},
+	{
+		"id": "31",
+		"name": "Lich",
+		"win_rate": "56.0",
+		"pick_rate": "0.09"
+		},
+	{
+		"id": "32",
+		"name": "Riki",
+		"win_rate": "55.3",
+		"pick_rate": "0.08"
+		},
+	{
+		"id": "33",
+		"name": "Enigma",
+		"win_rate": "49.1",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "34",
+		"name": "Tinker",
+		"win_rate": "44.7",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "35",
+		"name": "Sniper",
+		"win_rate": "44.1",
+		"pick_rate": "0.08"
+		},
+	{
+		"id": "36",
+		"name": "Necrophos",
+		"win_rate": "56.4",
+		"pick_rate": "0.12"
+		},
+	{
+		"id": "37",
+		"name": "Warlock",
+		"win_rate": "53.7",
+		"pick_rate": "0.04"
+		},
+	{
+		"id": "38",
+		"name": "Beastmaster",
+		"win_rate": "52.2",
+		"pick_rate": "0.03"
+		},
+	{
+		"id": "39",
+		"name": "Queen of Pain",
+		"win_rate": "44.8",
+		"pick_rate": "0.21"
+		},
+	{
+		"id": "40",
+		"name": "Venomancer",
+		"win_rate": "52.5",
+		"pick_rate": "0.06"
+		},
+	{
+		"id": "41",
+		"name": "Faceless Void",
+		"win_rate": "44.4",
+		"pick_rate": "0.06"
+		},
+	{
+		"id": "42",
+		"name": "Wraith King",
+		"win_rate": "58.0",
+		"pick_rate": "0.16"
+		},
+	{
+		"id": "43",
+		"name": "Death Prophet",
+		"win_rate": "49.7",
+		"pick_rate": "0.03"
+		},
+	{
+		"id": "44",
+		"name": "Phantom Assassin",
+		"win_rate": "46.8",
+		"pick_rate": "0.15"
+		},
+	{
+		"id": "45",
+		"name": "Pugna",
+		"win_rate": "48.6",
+		"pick_rate": "0.03"
+		},
+	{
+		"id": "46",
+		"name": "Templar Assassin",
+		"win_rate": "50.5",
+		"pick_rate": "0.12"
+		},
+	{
+		"id": "47",
+		"name": "Viper",
+		"win_rate": "50.7",
+		"pick_rate": "0.07"
+		},
+	{
+		"id": "48",
+		"name": "Luna",
+		"win_rate": "52.0",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "49",
+		"name": "Dragon Knight",
+		"win_rate": "49.3",
+		"pick_rate": "0.04"
+		},
+	{
+		"id": "50",
+		"name": "Dazzle",
+		"win_rate": "52.8",
+		"pick_rate": "0.17"
+		},
+	{
+		"id": "51",
+		"name": "Clockwerk",
+		"win_rate": "49.5",
+		"pick_rate": "0.09"
+		},
+	{
+		"id": "52",
+		"name": "Leshrac",
+		"win_rate": "45.9",
+		"pick_rate": "0.02"
+		},
+	{
+		"id": "53",
+		"name": "Nature's Prophet",
+		"win_rate": "40.6",
+		"pick_rate": "0.07"
+		},
+	{
+		"id": "54",
+		"name": "Lifestealer",
+		"win_rate": "45.6",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "55",
+		"name": "Dark Seer",
+		"win_rate": "51.0",
+		"pick_rate": "0.08"
+		},
+	{
+		"id": "56",
+		"name": "Clinkz",
+		"win_rate": "47.7",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "57",
+		"name": "Omniknight",
+		"win_rate": "59.1",
+		"pick_rate": "0.10"
+		},
+	{
+		"id": "58",
+		"name": "Enchantress",
+		"win_rate": "40.8",
+		"pick_rate": "0.02"
+		},
+	{
+		"id": "59",
+		"name": "Huskar",
+		"win_rate": "49.0",
+		"pick_rate": "0.08"
+		},
+	{
+		"id": "60",
+		"name": "Night Stalker",
+		"win_rate": "51.5",
+		"pick_rate": "0.06"
+		},
+	{
+		"id": "61",
+		"name": "Broodmother",
+		"win_rate": "41.3",
+		"pick_rate": "0.03"
+		},
+	{
+		"id": "62",
+		"name": "Bounty Hunter",
+		"win_rate": "49.8",
+		"pick_rate": "0.14"
+		},
+	{
+		"id": "63",
+		"name": "Weaver",
+		"win_rate": "46.1",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "64",
+		"name": "Jakiro",
+		"win_rate": "50.5",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "65",
+		"name": "Batrider",
+		"win_rate": "44.0",
+		"pick_rate": "0.02"
+		},
+	{
+		"id": "66",
+		"name": "Chen",
+		"win_rate": "46.8",
+		"pick_rate": "0.01"
+		},
+	{
+		"id": "67",
+		"name": "Spectre",
+		"win_rate": "58.3",
+		"pick_rate": "0.13"
+		},
+	{
+		"id": "68",
+		"name": "Ancient Apparition",
+		"win_rate": "49.8",
+		"pick_rate": "0.14"
+		},
+	{
+		"id": "69",
+		"name": "Doom",
+		"win_rate": "53.2",
+		"pick_rate": "0.16"
+		},
+	{
+		"id": "70",
+		"name": "Ursa",
+		"win_rate": "56.8",
+		"pick_rate": "0.09"
+		},
+	{
+		"id": "71",
+		"name": "Spirit Breaker",
+		"win_rate": "54.4",
+		"pick_rate": "0.15"
+		},
+	{
+		"id": "72",
+		"name": "Gyrocopter",
+		"win_rate": "49.5",
+		"pick_rate": "0.14"
+		},
+	{
+		"id": "73",
+		"name": "Alchemist",
+		"win_rate": "51.9",
+		"pick_rate": "0.20"
+		},
+	{
+		"id": "74",
+		"name": "Invoker",
+		"win_rate": "49.1",
+		"pick_rate": "0.23"
+		},
+	{
+		"id": "75",
+		"name": "Silencer",
+		"win_rate": "52.6",
+		"pick_rate": "0.14"
+		},
+	{
+		"id": "76",
+		"name": "Outworld Devourer",
+		"win_rate": "45.8",
+		"pick_rate": "0.03"
+		},
+	{
+		"id": "77",
+		"name": "Lycan",
+		"win_rate": "50.7",
+		"pick_rate": "0.02"
+		},
+	{
+		"id": "78",
+		"name": "Brewmaster",
+		"win_rate": "49.8",
+		"pick_rate": "0.02"
+		},
+	{
+		"id": "79",
+		"name": "Shadow Demon",
+		"win_rate": "40.8",
+		"pick_rate": "0.03"
+		},
+	{
+		"id": "80",
+		"name": "Lone Druid",
+		"win_rate": "43.3",
+		"pick_rate": "0.02"
+		},
+	{
+		"id": "81",
+		"name": "Chaos Knight",
+		"win_rate": "49.6",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "82",
+		"name": "Meepo",
+		"win_rate": "47.4",
+		"pick_rate": "0.03"
+		},
+	{
+		"id": "83",
+		"name": "Treant Protector",
+		"win_rate": "52.0",
+		"pick_rate": "0.03"
+		},
+	{
+		"id": "84",
+		"name": "Ogre Magi",
+		"win_rate": "51.4",
+		"pick_rate": "0.09"
+		},
+	{
+		"id": "85",
+		"name": "Undying",
+		"win_rate": "56.9",
+		"pick_rate": "0.12"
+		},
+	{
+		"id": "86",
+		"name": "Rubick",
+		"win_rate": "45.4",
+		"pick_rate": "0.16"
+		},
+	{
+		"id": "87",
+		"name": "Disruptor",
+		"win_rate": "52.5",
+		"pick_rate": "0.10"
+		},
+	{
+		"id": "88",
+		"name": "Nyx Assassin",
+		"win_rate": "48.1",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "89",
+		"name": "Naga Siren",
+		"win_rate": "45.2",
+		"pick_rate": "0.02"
+		},
+	{
+		"id": "90",
+		"name": "Keeper of the Light",
+		"win_rate": "47.4",
+		"pick_rate": "0.04"
+		},
+	{
+		"id": "91",
+		"name": "Io",
+		"win_rate": "44.9",
+		"pick_rate": "0.03"
+		},
+	{
+		"id": "92",
+		"name": "Visage",
+		"win_rate": "49.6",
+		"pick_rate": "0.02"
+		},
+	{
+		"id": "93",
+		"name": "Slark",
+		"win_rate": "48.5",
+		"pick_rate": "0.17"
+		},
+	{
+		"id": "94",
+		"name": "Medusa",
+		"win_rate": "52.3",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "95",
+		"name": "Troll Warlord",
+		"win_rate": "48.1",
+		"pick_rate": "0.04"
+		},
+	{
+		"id": "96",
+		"name": "Centaur Warrunner",
+		"win_rate": "51.8",
+		"pick_rate": "0.04"
+		},
+	{
+		"id": "97",
+		"name": "Magnus",
+		"win_rate": "44.7",
+		"pick_rate": "0.07"
+		},
+	{
+		"id": "98",
+		"name": "Timbersaw",
+		"win_rate": "44.5",
+		"pick_rate": "0.06"
+		},
+	{
+		"id": "99",
+		"name": "Bristleback",
+		"win_rate": "47.1",
+		"pick_rate": "0.08"
+		},
+	{
+		"id": "100",
+		"name": "Tusk",
+		"win_rate": "51.1",
+		"pick_rate": "0.21"
+		},
+	{
+		"id": "101",
+		"name": "Skywrath Mage",
+		"win_rate": "44.0",
+		"pick_rate": "0.06"
 		}
 	]
 }

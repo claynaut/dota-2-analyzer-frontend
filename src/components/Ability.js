@@ -115,11 +115,15 @@ export default class Ability extends Component {
   }
 
   render() {
+    var searchAb = Number(sessionStorage.getItem('searchAb'));
+    searchAb = searchAb ? searchAb : 25;
+
     const { posts, updateFormOpen, updateFormOpenPassword, deleteFormOpen, password } = this.state;
+    
     return (
       <div>
         { posts.abilities_upgraded ? 
-          posts.abilities_upgraded.map(post =>
+          posts.abilities_upgraded.slice(0,searchAb).map(post =>
             <div className={styles.rowButtonWrapper}>
               <div className={styles.tableRow}>
                 <div className={Abilitystyles.tableColumnOne}>
