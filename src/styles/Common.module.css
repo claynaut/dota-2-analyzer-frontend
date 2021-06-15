@@ -314,3 +314,67 @@
 .chartAlt {
   margin-right: 2.5rem;
 }
+
+/* For responsive layouts */
+@media (min-width: 320px) {
+  .container {
+    padding: 3rem 0 2rem 0;
+  }
+  .wrapper {
+    width: 18rem;
+    font-size: 10px;
+  }
+  .tableHeader {
+    top: 3.2rem;
+    min-width: 10rem;
+    height: 2.2rem;
+    text-align: center;
+  }
+  .tableRow {
+    min-width: 10rem;
+    height: 2.2rem;
+  }
+  .buttonWrapper:nth-child(1) {
+    display: none;
+  }
+  .tableRow:hover + .inRowButtonWrapper, .inRowButtonWrapper:hover {
+    display: none;
+  }
+  .buttonStack {
+    flex-direction: row;
+  }
+  .buttonHeader {
+    position: relative;
+    width: 7.5rem;
+    margin-right: 0.5rem;
+    line-height: 30px;
+    font-size: 10px;
+    transform: translateY(0.3rem);
+  }
+  .buttonNumber {
+    font-size: 10px;
+  }
+  .button .buttonNumber {
+    width: 1rem;
+  }
+  .choiceWrapper {
+    flex-direction: column;
+    width: 18rem;
+  }
+  .choiceWrapper .buttonWrapper {
+    padding-top: 0.8rem;
+  }
+  .choiceWrapper .button {
+    width: 100%;
+    padding: 0.2rem 0.5rem;
+    line-height: 20px;
+    font-size: 10px;
+    text-align: center;
+  }
+
+  .title {
+    margin-bottom: 0rem;
+    line-height: 28px;
+    font-size: 32px;
+  }
+}

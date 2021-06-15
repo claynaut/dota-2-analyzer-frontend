@@ -1,7 +1,6 @@
 .tableColumnOne,
 .tableColumnTwo,
-.tableColumnThree,
-.tableColumnFour {
+.tableColumnThree {
   display: flex;
   justify-content: center;
   cursor: inherit;
@@ -14,9 +13,6 @@
   width: 15rem;
 }
 .tableColumnThree {
-  width: 15rem;
-}
-.tableColumnFour {
   width: 15rem;
 }
 

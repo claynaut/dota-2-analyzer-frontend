@@ -43,3 +43,16 @@
   letter-spacing: 1px;
   color: #af3c38 !important;
 }
+
+/* For responsive layouts */
+@media (min-width: 320px) {
+  .navwrapper {
+    width: 19rem;
+  }
+  .list {
+    font-size: 10px;
+  }
+  .link {
+    margin: 0 0.6rem;
+  }
+}
