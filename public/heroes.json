@@ -1,0 +1,154 @@
+{
+	"heroes": [
+	{
+		"id": "1",
+		"name": "Anti-Mage",
+		"win_rate": "46.3",
+		"pick_rate": "0.19"
+		},
+	{
+		"id": "2",
+		"name": "Axe",
+		"win_rate": "43.4",
+		"pick_rate": "0.09"
+		},
+	{
+		"id": "3",
+		"name": "Bane",
+		"win_rate": "47.1",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "4",
+		"name": "Bloodseeker",
+		"win_rate": "45.4",
+		"pick_rate": "0.06"
+		},
+	{
+		"id": "5",
+		"name": "Crystal Maiden",
+		"win_rate": "54.0",
+		"pick_rate": "0.16"
+		},
+	{
+		"id": "6",
+		"name": "Drow Ranger",
+		"win_rate": "51.2",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "7",
+		"name": "Earthshaker",
+		"win_rate": "50.3",
+		"pick_rate": "0.23"
+		},
+	{
+		"id": "8",
+		"name": "Juggernaut",
+		"win_rate": "51.6",
+		"pick_rate": "0.21"
+		},
+	{
+		"id": "9",
+		"name": "Mirana",
+		"win_rate": "52.1",
+		"pick_rate": "0.14"
+		},
+	{
+		"id": "10",
+		"name": "Morphling",
+		"win_rate": "43.7",
+		"pick_rate": "0.03"
+		},
+	{
+		"id": "11",
+		"name": "Shadow Fiend",
+		"win_rate": "51.7",
+		"pick_rate": "0.34"
+		},
+	{
+		"id": "12",
+		"name": "Phantom Lancer",
+		"win_rate": "44.7",
+		"pick_rate": "0.07"
+		},
+	{
+		"id": "13",
+		"name": "Puck",
+		"win_rate": "42.2",
+		"pick_rate": "0.04"
+		},
+	{
+		"id": "14",
+		"name": "Pudge",
+		"win_rate": "49.2",
+		"pick_rate": "0.19"
+		},
+	{
+		"id": "15",
+		"name": "Razor",
+		"win_rate": "47.4",
+		"pick_rate": "0.04"
+		},
+	{
+		"id": "16",
+		"name": "Sand King",
+		"win_rate": "47.3",
+		"pick_rate": "0.06"
+		},
+	{
+		"id": "17",
+		"name": "Storm Spirit",
+		"win_rate": "41.5",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "18",
+		"name": "Sven",
+		"win_rate": "50.9",
+		"pick_rate": "0.07"
+		},
+	{
+		"id": "19",
+		"name": "Tiny",
+		"win_rate": "47.9",
+		"pick_rate": "0.11"
+		},
+	{
+		"id": "20",
+		"name": "Vengeful Spirit",
+		"win_rate": "53.2",
+		"pick_rate": "0.08"
+		},
+	{
+		"id": "21",
+		"name": "Windranger",
+		"win_rate": "48.0",
+		"pick_rate": "0.42"
+		},
+	{
+		"id": "22",
+		"name": "Zeus",
+		"win_rate": "55.5",
+		"pick_rate": "0.09"
+		},
+	{
+		"id": "23",
+		"name": "Kunkka",
+		"win_rate": "45.7",
+		"pick_rate": "0.05"
+		},
+	{
+		"id": "25",
+		"name": "Lina",
+		"win_rate": "42.8",
+		"pick_rate": "0.17"
+		},
+	{
+		"id": "26",
+		"name": "Lion",
+		"win_rate": "46.8",
+		"pick_rate": "0.15"
+		}
+	]
+}

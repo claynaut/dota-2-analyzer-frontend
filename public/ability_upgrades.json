@@ -1,0 +1,129 @@
+{
+	"abilities_upgraded": [
+	{
+		"id": "5131",
+		"name": "windrunner_powershot",
+		"numTimes_upgraded": 2282870
+	},
+	{
+		"id": "5002",
+		"name": "attribute_bonus",
+		"numTimes_upgraded": 632017
+	},
+	{
+		"id": "5130",
+		"name": "windrunner_shackleshot",
+		"numTimes_upgraded": 82565
+	},
+	{
+		"id": "5132",
+		"name": "windrunner_windrun",
+		"numTimes_upgraded": 79417
+	},
+	{
+		"id": "5062",
+		"name": "nevermore_necromastery",
+		"numTimes_upgraded": 67865
+	},
+	{
+		"id": "5063",
+		"name": "nevermore_dark_lord",
+		"numTimes_upgraded": 65590
+	},
+	{
+		"id": "5372",
+		"name": "invoker_exort",
+		"numTimes_upgraded": 63673
+	},
+	{
+		"id": "5371",
+		"name": "invoker_wex",
+		"numTimes_upgraded": 62738
+	},
+	{
+		"id": "5133",
+		"name": "windrunner_focusfire",
+		"numTimes_upgraded": 57383
+	},
+	{
+		"id": "5370",
+		"name": "invoker_quas",
+		"numTimes_upgraded": 53947
+	},
+	{
+		"id": "5059",
+		"name": "nevermore_shadowraze1",
+		"numTimes_upgraded": 49589
+	},
+	{
+		"id": "5064",
+		"name": "nevermore_requiem",
+		"numTimes_upgraded": 48580
+	},
+	{
+		"id": "5115",
+		"name": "slardar_slithereen_crush",
+		"numTimes_upgraded": 44551
+	},
+	{
+		"id": "5023",
+		"name": "earthshaker_fissure",
+		"numTimes_upgraded": 44459
+	},
+	{
+		"id": "5025",
+		"name": "earthshaker_aftershock",
+		"numTimes_upgraded": 43463
+	},
+	{
+		"id": "5114",
+		"name": "slardar_sprint",
+		"numTimes_upgraded": 43444
+	},
+	{
+		"id": "5175",
+		"name": "queenofpain_scream_of_pain",
+		"numTimes_upgraded": 42190
+	},
+	{
+		"id": "5174",
+		"name": "queenofpain_blink",
+		"numTimes_upgraded": 41749
+	},
+	{
+		"id": "5116",
+		"name": "slardar_bash",
+		"numTimes_upgraded": 41492
+	},
+	{
+		"id": "5375",
+		"name": "invoker_invoke",
+		"numTimes_upgraded": 41098
+	},
+	{
+		"id": "5565",
+		"name": "tusk_ice_shards",
+		"numTimes_upgraded": 41087
+	},
+	{
+		"id": "5024",
+		"name": "earthshaker_enchant_totem",
+		"numTimes_upgraded": 41043
+	},
+	{
+		"id": "5566",
+		"name": "tusk_snowball",
+		"numTimes_upgraded": 40664
+	},
+	{
+		"id": "5173",
+		"name": "queenofpain_shadow_strike",
+		"numTimes_upgraded": 40009
+	},
+	{
+		"id": "5027",
+		"name": "juggernaut_blade_dance",
+		"numTimes_upgraded": 39259
+	}
+	]
+}

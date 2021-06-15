@@ -1,0 +1,154 @@
+{
+	"players": [
+	{
+		"id": "308663",
+		"win_rate": "100.0",
+		"total_wins": 1,
+		"total_matches": 1
+	},
+	{
+		"id": "79749",
+		"win_rate": "52.5",
+		"total_wins": 21,
+		"total_matches": 40
+	},
+	{
+		"id": "26500",
+		"win_rate": "52.0",
+		"total_wins": 26,
+		"total_matches": 50
+	},
+	{
+		"id": "137046",
+		"win_rate": "51.7",
+		"total_wins": 46,
+		"total_matches": 89
+	},
+	{
+		"id": "56881",
+		"win_rate": "65.2",
+		"total_wins": 15,
+		"total_matches": 23
+	},
+	{
+		"id": "221202",
+		"win_rate": "50.0",
+		"total_wins": 6,
+		"total_matches": 12
+	},
+	{
+		"id": "221204",
+		"win_rate": "37.5",
+		"total_wins": 3,
+		"total_matches": 8
+	},
+	{
+		"id": "120495",
+		"win_rate": "57.1",
+		"total_wins": 16,
+		"total_matches": 28
+	},
+	{
+		"id": "135506",
+		"win_rate": "47.8",
+		"total_wins": 11,
+		"total_matches": 23
+	},
+	{
+		"id": "115150",
+		"win_rate": "62.5",
+		"total_wins": 5,
+		"total_matches": 8
+	},
+	{
+		"id": "142607",
+		"win_rate": "48.5",
+		"total_wins": 65,
+		"total_matches": 134
+	},
+	{
+		"id": "15844",
+		"win_rate": "50.0",
+		"total_wins": 47,
+		"total_matches": 94
+	},
+	{
+		"id": "4081",
+		"win_rate": "47.1",
+		"total_wins": 16,
+		"total_matches": 34
+	},
+	{
+		"id": "136945",
+		"win_rate": "35.0",
+		"total_wins": 7,
+		"total_matches": 20
+	},
+	{
+		"id": "72827",
+		"win_rate": "50.0",
+		"total_wins": 3,
+		"total_matches": 6
+	},
+	{
+		"id": "139946",
+		"win_rate": "33.3",
+		"total_wins": 3,
+		"total_matches": 9
+	},
+	{
+		"id": "249435",
+		"win_rate": "100.0",
+		"total_wins": 2,
+		"total_matches": 2
+	},
+	{
+		"id": "37564",
+		"win_rate": "41.7",
+		"total_wins": 15,
+		"total_matches": 36
+	},
+	{
+		"id": "193444",
+		"win_rate": "55.6",
+		"total_wins": 5,
+		"total_matches": 9
+	},
+	{
+		"id": "74326",
+		"win_rate": "43.8",
+		"total_wins": 7,
+		"total_matches": 16
+	},
+	{
+		"id": "226191",
+		"win_rate": "51.9",
+		"total_wins": 14,
+		"total_matches": 27
+	},
+	{
+		"id": "329671",
+		"win_rate": "57.1",
+		"total_wins": 4,
+		"total_matches": 7
+	},
+	{
+		"id": "78003",
+		"win_rate": "55.6",
+		"total_wins": 5,
+		"total_matches": 9
+	},
+	{
+		"id": "32367",
+		"win_rate": "38.7",
+		"total_wins": 12,
+		"total_matches": 31
+	},
+	{
+		"id": "85484",
+		"win_rate": "14.5",
+		"total_wins": 67,
+		"total_matches": 462
+	}
+	]
+}
