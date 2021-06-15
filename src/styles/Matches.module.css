@@ -77,3 +77,48 @@
   transition: 0.2s ease;
   transition-delay: 0.13s;
 }
+
+/* For responsive layouts */
+@media (min-width: 320px) {
+  .fbColumnOne {
+    width: 7rem;
+  }
+  .fbColumnTwo {
+    width: 12rem;
+  }
+  .fbColumnThree {
+    width: 11rem;
+  }
+  .fbColumnFour {
+    width: 9rem;
+  }
+
+  .crColumnOne {
+    width: 7rem;
+  }
+  .crColumnTwo {
+    width: 12rem;
+  }
+  .crColumnThree {
+    width: 9rem;
+  }
+  .crColumnFour {
+    width: 11rem;
+  }
+
+  .mlColumnOne {
+    width: 7rem;
+  }
+  .mlColumnTwo {
+    width: 8rem;
+  }
+  .mlColumnThree {
+    width: 8rem;
+  }
+  .mlColumnFour {
+    width: 8rem;
+  }
+  .mlColumnFive {
+    width: 8rem;
+  }
+}

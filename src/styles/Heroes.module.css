@@ -36,3 +36,19 @@
   transition: 0.2s ease;
   transition-delay: 0.12s;
 }
+
+/* For responsive layouts */
+@media (min-width: 320px) {
+  .tableColumnOne {
+    width: 7rem;
+  }
+  .tableColumnTwo {
+    width: 16rem;
+  }
+  .tableColumnThree {
+    width: 8rem;
+  }
+  .tableColumnFour {
+    width: 8rem;
+  }
+}
