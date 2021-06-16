@@ -13,7 +13,7 @@ export default function Nav() {
               activeClass="active"
               className={`${Navstyles.link} ${Navstyles.home}`}
             >
-              TEAM A
+              D2A
             </NavLink>
           </li>
         </ul>
