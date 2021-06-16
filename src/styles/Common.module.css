@@ -316,7 +316,7 @@
 }
 
 /* For responsive layouts */
-@media (max-width: 480px) {
+@media (max-width: 720px) {
   .container {
     padding: 3rem 0 2rem 0;
   }
@@ -368,7 +368,7 @@
     width: 100%;
     padding: 0.2rem 0.5rem;
     line-height: 20px;
-    font-size: 10px;
+    font-size: 9px;
     text-align: center;
   }
 
@@ -379,16 +379,7 @@
   }
 }
 
-@media (min-width: 480px) and (max-width: 768px) {
-  .buttonWrapper:nth-child(1) {
-    visibility: hidden;
-  }
-  .tableRow:hover + .inRowButtonWrapper, .inRowButtonWrapper:hover {
-    display: none;
-  }
-}
-
-@media (min-width: 480px) and (max-width: 1024px) {
+@media (min-width: 720px) and (max-width: 1024px) {
   .wrapper {
     width: 38rem;
   }
@@ -406,7 +397,19 @@
   }
   .choiceWrapper .button {
     width: 100%;
-    padding: 0.5rem 0.5rem;
+    padding: 0.7rem 0.5rem;
     text-align: center;
+  }
+  .buttonWrapper:nth-child(1) {
+    visibility: hidden;
+  }
+  .tableRow:hover + .inRowButtonWrapper, .inRowButtonWrapper:hover {
+    display: none;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1368px) {
+  .tableRow:hover + .inRowButtonWrapper, .inRowButtonWrapper:hover {
+    display: none;
   }
 }

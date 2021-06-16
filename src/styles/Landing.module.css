@@ -19,3 +19,22 @@
 .button {
   width: 20rem;
 }
+
+/* For responsive layouts */
+@media (max-width: 720px) {
+  .title {
+    line-height: 32px;
+    font-size: 40px;
+  }
+  .description {
+    padding: 0 2rem 32px 2rem;
+    padding-bottom: 32px;
+    font-size: 12px;
+  }
+
+  .button {
+    width: 14rem;
+    height: 1.2rem;
+    font-size: 12px;
+  }
+}

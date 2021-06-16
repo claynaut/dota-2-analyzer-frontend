@@ -42,7 +42,7 @@
 }
 
 /* For responsive layouts */
-@media (max-width: 480px) {
+@media (max-width: 720px) {
   .tableColumnOne {
     width: 7rem;
   }
