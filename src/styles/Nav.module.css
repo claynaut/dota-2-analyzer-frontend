@@ -12,7 +12,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 72rem;
+  width: 62rem;
 }
 
 .list {
@@ -45,7 +45,7 @@
 }
 
 /* For responsive layouts */
-@media (min-width: 320px) {
+@media (max-width: 480px) {
   .navwrapper {
     width: 19rem;
   }
@@ -54,5 +54,11 @@
   }
   .link {
     margin: 0 0.6rem;
+  }
+}
+
+@media (min-width: 480px) and (max-width: 1024px) {
+  .navwrapper {
+    width: 40rem;
   }
 }
