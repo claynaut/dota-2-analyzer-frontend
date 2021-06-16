@@ -24,10 +24,10 @@
   width: 12rem;
 }
 .fbColumnThree {
-  width: 12rem;
+  width: 10rem;
 }
 .fbColumnFour {
-  width: 12rem;
+  width: 13rem;
 }
 
 /* Cluster Region Styling */
@@ -38,10 +38,10 @@
   width: 12rem;
 }
 .crColumnThree {
-  width: 12rem;
+  width: 10rem;
 }
 .crColumnFour {
-  width: 12rem;
+  width: 13rem;
 }
 
 /* Most Liked Matches Styling */
@@ -49,16 +49,16 @@
   width: 7rem;
 }
 .mlColumnTwo {
-  width: 12rem;
+  width: 11rem;
 }
 .mlColumnThree {
-  width: 12rem;
+  width: 8rem;
 }
 .mlColumnFour {
-  width: 12rem;
+  width: 8rem;
 }
 .mlColumnFive {
-  width: 12rem;
+  width: 8rem;
 }
 
 .nameColumn {
